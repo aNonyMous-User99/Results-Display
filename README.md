@@ -129,3 +129,15 @@ ___
 
 ### Fig 10 IGD (b)
 ![Fig 10 IGD (b)](https://github.com/user-attachments/assets/ed517455-c2b7-4ce1-8cb0-eafecd15d57a)
+
+## Test system setup and parameter with the increasing of DGs.
+
+- [Fig.11_12_DG](Fig.11_12_DG.txt)
+
+- [Fig.11_16_DG](Fig.11_16_DG.txt)
+
+## Test system setup and parameter with the increasing of communication structures.
+
+- [Fig.12_30_D2D_links](Fig.12_30_D2D_links.txt)
+
+- [Fig.12_36_D2D_links](Fig.12_36_D2D_links.txt)
